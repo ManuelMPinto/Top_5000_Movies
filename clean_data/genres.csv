@@ -1,4 +1,4 @@
-id,genre_1,genre_2,genre_3,genre_4,genre_5,genre_6,genre_7
+movie_id,genre_1,genre_2,genre_3,genre_4,genre_5,genre_6,genre_7
 19995,Action,Adventure,Fantasy,Science Fiction, , , 
 285,Adventure,Fantasy,Action, , , , 
 206647,Action,Adventure,Crime, , , , 
